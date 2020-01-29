@@ -1,2 +1,2 @@
 # product-service
-CloudNativeBootCampJan20
+product-service CloudNativeBootCampJan20
